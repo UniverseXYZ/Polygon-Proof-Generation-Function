@@ -5,6 +5,7 @@
   - The proof (if ready) is an input to the third and last step to regain access of your tokens on `Ethereum`
   
   ## Install
+  - `cd functions/`
   - `npm install`
   - `npm run serve`
 
